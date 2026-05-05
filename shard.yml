@@ -1,0 +1,17 @@
+name: calendar
+version: 0.1.0
+
+authors:
+  - Mansurov Maksatbek <maksat.mansurov@gmail.com>
+
+targets:
+  calendar:
+    main: src/calendar.cr
+
+dependencies:
+  crubbletea:
+    github: baltavay/crubbletea
+
+crystal: '>= 1.19.1'
+
+license: MIT
