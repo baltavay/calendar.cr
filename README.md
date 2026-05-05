@@ -21,6 +21,12 @@ Terminal calendar TUI with [omarchy](https://github.com/basecamp/omarchy) theme 
 - Cursor navigation — move between days with wrap-around across month/year boundaries
 - Persistent settings — first day of week saved in `~/.config/calendar/settings.json`
 
+## Screenshots
+
+![screenshot](assets/screenshot-2026-05-05_23-27-55.png)
+![screenshot](assets/screenshot-2026-05-05_23-29-24.png)
+![screenshot](assets/screenshot-2026-05-05_23-29-38.png)
+
 ## Build
 
 ```
