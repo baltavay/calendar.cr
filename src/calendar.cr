@@ -85,6 +85,8 @@ module Calendar
         name = File.exists?(name_path) ? File.read(name_path).strip : ""
         @toast_text = name.empty? ? "Theme updated" : "Theme: #{name}"
       end
+    rescue ex : IO::Error
+      @theme = {} of String => String
     end
 
     def load_theme : Hash(String, String)
@@ -98,6 +100,8 @@ module Calendar
         end
       end
       colors
+    rescue ex : IO::Error
+      {} of String => String
     end
 
     def load_settings : Bool
