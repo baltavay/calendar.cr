@@ -23,9 +23,9 @@ Terminal calendar TUI with [omarchy](https://github.com/basecamp/omarchy) theme 
 
 ## Screenshots
 
-![screenshot](assets/screenshot-2026-05-05_23-27-55.png)
-![screenshot](assets/screenshot-2026-05-05_23-29-24.png)
-![screenshot](assets/screenshot-2026-05-05_23-29-38.png)
+![screenshot](assets/screenshot-2026-05-05_23-29-24.jpg)
+![screenshot](assets/screenshot-2026-05-05_23-29-38.jpg)
+![screenshot](assets/screenshot-2026-05-14_17-50-24.jpg)
 
 ## Install
 
