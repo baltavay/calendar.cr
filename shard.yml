@@ -1,5 +1,5 @@
 name: calendar
-version: 0.1.0
+version: 0.2.0
 
 authors:
   - Mansurov Maksatbek <maksat.mansurov@gmail.com>
@@ -9,8 +9,8 @@ targets:
     main: src/calendar.cr
 
 dependencies:
-  crubbletea:
-    github: baltavay/crubbletea
+  ori:
+    github: baltavay/ori
 
 crystal: '>= 1.19.1'
 

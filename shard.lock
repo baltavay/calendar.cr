@@ -1,6 +1,6 @@
 version: 2.0
 shards:
-  crubbletea:
-    git: https://github.com/baltavay/crubbletea.git
-    version: 0.1.0+git.commit.f31d0430a9168013e5a36e9849bd40fff3fdc01e
+  ori:
+    git: https://github.com/baltavay/ori.git
+    version: 0.1.0+git.commit.af0e6d6fa1c8dcdeeebf6696bd2c3719fcad925c
 
