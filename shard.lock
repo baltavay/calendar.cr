@@ -2,5 +2,5 @@ version: 2.0
 shards:
   ori:
     git: https://github.com/baltavay/ori.git
-    version: 0.1.0+git.commit.af0e6d6fa1c8dcdeeebf6696bd2c3719fcad925c
+    version: 0.2.0+git.commit.3796938abf83d28d122d8c9cf6cc617d4342c9f7
 
